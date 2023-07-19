@@ -77,18 +77,6 @@ In this project, we implement our method using the Pytorch library, the structur
 - train.py
 
 ---
-## Dataset (will release the annotations after acceptance)
-1. EndoVis18-VQLA
-    - [Images](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/) 
-    - VQLA
-2. EndoVis17-VQLA
-    - [Images](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/Home/)
-    - VQLA  
-3. M2CAI2016-VQLA
-    - [Images](https://ai.stanford.edu/~syyeung/tooldetection.html)
-    - VQLA  
-
----
 
 ## Run training
 - Train
