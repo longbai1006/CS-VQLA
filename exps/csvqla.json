@@ -1,0 +1,15 @@
+{
+    "prefix": "reproduce",
+    "shuffle": true,
+    "model_name": "csvqla",
+    "convnet_type": "visualbert",
+    "device": ["0"],
+    "init_epoch": 60,
+    "init_lr": 0.00001,
+    "epochs": 25,
+    "lrate": 0.00005,
+    "T_overlap": 25,
+    "T_old": 20,
+    "checkpoint_dir": "checkpoints/",
+    "batch_size": 64
+}
