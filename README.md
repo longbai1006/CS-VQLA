@@ -8,7 +8,20 @@
 
 </samp>   
 
-</div>     
+</div>  
+
+---
+
+If you find our code or paper useful, please cite as
+
+```bibtex
+@article{bai2023revisiting,
+  title={Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery},
+  author={Bai, Long and Islam, Mobarakol and Ren, Hongliang},
+  journal={arXiv preprint arXiv:2307.12045},
+  year={2023}
+}
+```
 
 ---
 ## Abstract
