@@ -6,6 +6,8 @@
 
 <h2> Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery </h1>
 
+<h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
+
 </samp>   
 
 </div>  
