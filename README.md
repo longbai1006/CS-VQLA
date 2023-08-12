@@ -10,9 +10,16 @@
 
 </samp>   
 
-</div>  
+<h2> MICCAI 2023 (Oral) </h1>
+
+</samp>   
+
+| **[[```arXiv```](<https://arxiv.org/abs/2307.12045>)]** |
+|:-------------------:|
 
 ---
+
+</div>     
 
 If you find our code or paper useful, please cite as
 
