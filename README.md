@@ -8,8 +8,6 @@
 
 <h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
 
-</samp>   
-
 <h2> MICCAI 2023 </h1>
 
 </samp>   
