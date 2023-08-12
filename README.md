@@ -10,7 +10,7 @@
 
 </samp>   
 
-<h2> MICCAI 2023 (Oral) </h1>
+<h2> MICCAI 2023 </h1>
 
 </samp>   
 
