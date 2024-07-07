@@ -6,7 +6,7 @@
 
 <h2> Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery </h1>
 
-<h4> Long Bai *, Mobarakol Islam *, and Hongliang Ren </h3>
+<h4> Long Bai*, Mobarakol Islam*, and Hongliang Ren </h3>
 
 <h3> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 </h2>
 
